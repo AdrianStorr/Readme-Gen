@@ -5,33 +5,33 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents
-  *[Description](Description)
-  *[Usage](Usage)
-  *[Installation](Installation)
-  *[License](License)
-  *[Contributors](contributers)
-  *[Test](Test)
-  *[Questions](Questions)
+  * [Description](Description)
+  * [Usage](Usage)
+  * [Installation](Installation)
+  * [License](License)
+  * [Contributors](contributers)
+  * [Test](Test)
+  * [Questions](Questions)
 
-  ##Description
+  ## Description
   ${data.Description}
 
-  ##Installation Instuctions
+  ## Installation Instuctions
   ${data.Installation}
 
-  ##Usage Information
+  ## Usage Information
   ${data.Usage}
 
-  ##License
+  ## License
   ${data.License}
 
-  ##Contributers
+  ## Contributers
   ${data.Contribution}
 
-  ##Test
+  ## Test
   ${data.Test}
 
-  ##Question
+  ## Question
   Contact me:
 
   Github:[${data.Username}](https://github.com/AdrianStorr)
