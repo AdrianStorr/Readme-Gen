@@ -12,13 +12,13 @@ Readme Generator
   *[Questions](Questions)
 
   ##Description
-  Create a command line app that generates a profesional readme file
+  Create a command line app that generates a profesional readme file from the users input using the inquirer package.
 
   ##Installation Instuctions
-  run index.js
+   npm, inquirer,fs, util, node.js, and then run index.js in terminal.
 
   ##Usage Information
-  npm
+  This app can be used as a blue print readme file for other projects.
 
   ##License
   None
@@ -27,7 +27,7 @@ Readme Generator
   one
 
   ##Test
-  test
+  run test
 
   ##Question
   Contact me:
