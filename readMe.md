@@ -15,7 +15,7 @@
   readme generator
 
   ## Installation Instuctions
-  ru app in terminal
+  run app in terminal
 
   ## Usage Information
   run npm 
