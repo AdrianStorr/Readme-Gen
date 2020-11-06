@@ -1,4 +1,6 @@
 # Readme-Gen
+[link to Github page](https://github.com/AdrianStorr/Readme-Gen)
+
 ## Table of Contents
   * [Description](Description)
   * [Usage](Usage)
