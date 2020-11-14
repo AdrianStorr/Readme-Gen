@@ -2,13 +2,13 @@
 [link to Github page](https://github.com/AdrianStorr/Readme-Gen)
 
 ## Table of Contents
-  - [Description](#Description)
-  - [Usage](#Usage)
-  - [Installation](#Installation)
-  - [License](#License)
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Installation](#installation)
+  - [License](#license)
   - [Contributors](#contributers)
-  - [Test](#Test)
-  - [Questions](#Questions)
+  - [Test](#test)
+  - [Questions](#questions)
 
   ## Description
   readme generator application
